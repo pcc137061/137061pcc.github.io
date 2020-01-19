@@ -1,0 +1,28 @@
+body {
+font-family:font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+font-size: 24px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 700; 
+line-height: 26.4px;
+color:#ffbb00;
+text-indent: hanging;
+  display: flex;
+  flex-direction: column;
+  height: 93vh;
+  justify-content: center;
+  align-items: center;
+
+background: linear-gradient(0deg, rgba(0,238,255,1) 0%, rgba(0,0,0,1) 100%);
+  color: aqua;
+  font-family: "Dosis", sans-serif;
+  text-shadow: 0px 0px 40px #000
+}
+
+
+.foto {
+height: 250px;
+width: 250px;
+
+}
+
